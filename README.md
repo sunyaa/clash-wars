@@ -6,7 +6,7 @@ This is a multi-player tapping game for Android, where players use Dragon Ball Z
 
 ###### Gameplay
 
-<img src="https://i.imgur.com/LuK1RgL.png" alt="drawing" width="475px" />
+<img src="https://github.com/Autokrator/autokrator.github.io/raw/master/images/clashGIF.gif" alt="drawing" width="475px" />
 
 The client is implemented with Java (+ the LibGDX framework), and runs on Android devices. The server is written in C++ and runs in a UNIX environment, hosted on Amazon Web Services.
 
